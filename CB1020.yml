@@ -1,0 +1,16 @@
+name: cb1020
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - jupyterlab-spellchecker
+  - jupyterlab_code_formatter
+  - black
+  - isort
+  - numpy
+  - scipy
+  - matplotlib
+  - mesa
+  - pandas
+  - openpyxl
