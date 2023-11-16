@@ -14,3 +14,5 @@ dependencies:
   - mesa
   - pandas
   - openpyxl
+  - reacton
+  - solara
