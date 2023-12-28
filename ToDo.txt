@@ -1,0 +1,7 @@
+- Stochasticity of amount of receptors on each neuron
+- Receptor regeneration
+- Optimise code
+- Double check everything
+    - Amounts of agents
+    - All of the parameters 
+- More data analysis + graphs
